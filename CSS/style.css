@@ -188,7 +188,7 @@
     background-size: cover; 
     position: relative; 
   }
-  .landing .overlay {
+  .landing .overlay { 
     position: absolute;
     left: 0;
     top: 0;
