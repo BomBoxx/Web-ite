@@ -370,7 +370,7 @@
     padding-top: var(--section-padding); 
     padding-bottom: var(--section-padding); 
   }
-  .portfolio .shuffle {
+  .portfolio .shuffle { 
     display: flex;
     justify-content: center;
   }
