@@ -278,7 +278,7 @@
       grid-row-gap: 60px; 
     }
   }
-  .services .srv-box {
+  .services .srv-box { 
     display: flex;
   }
   .services .srv-box i {
