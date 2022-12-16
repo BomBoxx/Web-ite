@@ -381,7 +381,7 @@
     background-color: var(--main-color); 
     color: white; 
   }
-  .portfolio .imgs-container {
+  .portfolio .imgs-container { 
     display: flex;
     flex-wrap: wrap;
     margin-top: 60px;
