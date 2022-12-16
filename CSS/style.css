@@ -305,7 +305,7 @@
   }
   /* End Services */ 
   /* Start Design */ 
-  .design {
+  .design { 
     padding-top: var(--section-padding);
     padding-bottom: var(--section-padding);
     height: 600px;
