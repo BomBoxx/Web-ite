@@ -384,9 +384,9 @@
   .portfolio .imgs-container { 
     display: flex; 
     flex-wrap: wrap; 
-    margin-top: 60px; 
+    margin-top: 60px;
   }
-  .portfolio .imgs-container .box {
+  .portfolio .imgs-container .box { 
     overflow: hidden;
     position: relative;
   }
