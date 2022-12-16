@@ -340,7 +340,7 @@
     }
   }
   .design .image img { 
-    position: relative;
+    position: relative; 
     bottom: -150px;
   }
   .design .text {
