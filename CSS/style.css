@@ -386,8 +386,8 @@
     flex-wrap: wrap; 
     margin-top: 60px;
   }
-  .portfolio .imgs-container .box { 
-    overflow: hidden;
+  .portfolio .imgs-container .box {
+    overflow: hidden; 
     position: relative;
   }
   .portfolio .imgs-container .box:hover .caption {
