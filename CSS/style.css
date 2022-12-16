@@ -339,7 +339,7 @@
       display: none; 
     }
   }
-  .design .image img {
+  .design .image img { 
     position: relative;
     bottom: -150px;
   }
