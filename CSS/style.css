@@ -246,7 +246,7 @@
   .landing .fa-angle-right { 
     right: 30px; 
   }
-  .landing .bullets {
+  .landing .bullets { 
     position: absolute;
     left: 50%;
     transform: translateX(-50%);
