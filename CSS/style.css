@@ -366,7 +366,7 @@
   }
   /* End Design */ 
   /* Start Portfolio */ 
-  .portfolio {
+  .portfolio { 
     padding-top: var(--section-padding);
     padding-bottom: var(--section-padding);
   }
