@@ -382,7 +382,7 @@
     color: white; 
   }
   .portfolio .imgs-container { 
-    display: flex;
+    display: flex; 
     flex-wrap: wrap;
     margin-top: 60px;
   }
