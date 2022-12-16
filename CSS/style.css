@@ -236,7 +236,7 @@
     color: #ddd; 
   }
   @media (max-width: 767px) { 
-    .landing .change-background {
+    .landing .change-background { 
       display: none;
     }
   }
