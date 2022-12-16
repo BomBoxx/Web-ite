@@ -229,7 +229,7 @@
     font-size: 14px; 
     line-height: 2; 
   }
-  .landing .change-background {
+  .landing .change-background { 
     position: absolute;
     top: 50%;
     transform: translateY(-50%);
