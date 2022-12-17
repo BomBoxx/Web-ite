@@ -406,7 +406,7 @@
       flex-basis: 25%; 
     }
   }
-  .portfolio .imgs-container .box img {
+  .portfolio .imgs-container .box img { 
     max-width: 100%;
     transition: 0.3s;
   }
