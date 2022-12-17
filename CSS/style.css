@@ -468,7 +468,7 @@
     text-transform: uppercase; 
     font-weight: normal; 
   }
-  .video .text p {
+  .video .text p { 
     margin-bottom: 30px;
   }
   .video .text button {
