@@ -537,7 +537,7 @@
     }
   }
   @media (min-width: 992px) { 
-    .stats .container .box {
+    .stats .container .box { 
       flex-basis: 25%;
     }
   }
