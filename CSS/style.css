@@ -419,7 +419,7 @@
     transition: 0.3s; 
     bottom: -100%; 
   }
-  .portfolio .imgs-container .box .caption h4 {
+  .portfolio .imgs-container .box .caption h4 { 
     font-weight: normal;
     margin-bottom: 10px;
   }
