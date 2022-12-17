@@ -438,7 +438,7 @@
   } 
   /* End Portfolio */
   /* Start Video */ 
-  .video {
+  .video { 
     position: relative;
   }
   .video::before {
