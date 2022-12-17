@@ -485,7 +485,7 @@
     overflow: hidden; 
     text-align: center; 
   }
-  .about img {
+  .about img { 
     position: relative;
     bottom: -120px;
     margin-top: -120px;
