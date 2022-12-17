@@ -397,7 +397,7 @@
     transform: rotate(3deg) scale(1.1); 
   }
   @media (min-width: 768px) { 
-    .portfolio .imgs-container .box {
+    .portfolio .imgs-container .box { 
       flex-basis: 50%;
     }
   }
