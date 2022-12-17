@@ -507,7 +507,7 @@
     background-size: cover; 
     position: relative; 
   }
-  .stats::before {
+  .stats::before { 
     content: "";
     position: absolute;
     left: 0;
