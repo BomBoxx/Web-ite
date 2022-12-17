@@ -492,7 +492,7 @@
     max-width: 100%; 
   }
   @media (max-width: 767px) { 
-    .about img {
+    .about img { 
       bottom: -60px;
       margin-top: -60px;
     }
