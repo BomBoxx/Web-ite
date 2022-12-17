@@ -561,7 +561,7 @@
   }
   /* End Stats */ 
   /* Start Skills */ 
-  .our-skills {
+  .our-skills { 
     padding-top: var(--section-padding);
     padding-bottom: var(--section-padding);
   }
