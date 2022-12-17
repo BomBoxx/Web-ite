@@ -597,7 +597,7 @@
     border-radius: 50%; 
     margin-right: 50px; 
   }
-  @media (max-width: 767px) {
+  @media (max-width: 767px) { 
     .our-skills .testimonials .content {
       flex-direction: column;
       text-align: center;
