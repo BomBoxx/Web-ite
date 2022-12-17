@@ -683,7 +683,7 @@
     text-align: center; 
     color: white; 
   }
-  .quote::before {
+  .quote::before { 
     content: "";
     position: absolute;
     left: 0;
