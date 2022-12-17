@@ -570,7 +570,7 @@
     justify-content: space-between; 
     flex-wrap: wrap; 
   }
-  @media (min-width: 992px) {
+  @media (min-width: 992px) { 
     .our-skills .container > div {
       flex-basis: 45%;
     }
