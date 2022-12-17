@@ -760,7 +760,7 @@
     transform: translateX(-50%);
     bottom: 0;
   }
-  .pricing .plans .plan .foot a {
+  .pricing .plans .plan .foot a { 
     display: block;
     padding: 20px 20px;
     text-decoration: none;
