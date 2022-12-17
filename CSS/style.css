@@ -729,7 +729,7 @@
     font-size: 60px; 
     font-weight: bold; 
   }
-  .pricing .plans .plan .head span::before {
+  .pricing .plans .plan .head span::before { 
     content: "$";
     font-size: 25px;
     position: relative;
