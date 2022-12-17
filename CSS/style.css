@@ -737,7 +737,7 @@
     margin-right: 15px; 
     font-weight: normal; 
   }
-  .pricing .plans .plan .head span::after {
+  .pricing .plans .plan .head span::after { 
     content: "/Mo";
     font-size: 20px;
     position: relative;
